@@ -8,5 +8,3 @@
 fjflala/fjflala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<a href="https://app.daily.dev/fjflala"><img src="https://api.daily.dev/devcards/47192fc9ade4417fb36c111a2b39ce96.png?r=kp8" width="400" alt="Francisco Lala's Dev Card"/></a>
